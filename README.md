@@ -1,7 +1,9 @@
 # Olá, eu sou Arthur Moura
 
 🎓 Estudante de Sistemas de Informação no IFBA  e Análise e desenvolvimento de sistemas na UNIFAN
+
 💻 Desenvolvedor em formação  
+
 📊 Estudando Ciência de Dados, desenvolvimento e tecnologia 
 
 ## 🛠 Tecnologias e Ferramentas
